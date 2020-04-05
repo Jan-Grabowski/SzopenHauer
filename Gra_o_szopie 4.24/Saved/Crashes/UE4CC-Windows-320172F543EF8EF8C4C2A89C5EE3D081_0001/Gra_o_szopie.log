@@ -1,0 +1,1110 @@
+﻿Log file open, 04/05/20 16:35:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Gra_o_szopie
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.665831
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 7 1700X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: F:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Engine.ini]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Engine.ini]
+[2020.04.05-14.35.53:306][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Engine.ini]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Engine.ini]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.05-14.35.53:306][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Engine.ini]
+[2020.04.05-14.35.53:306][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Engine.ini]
+[2020.04.05-14.35.53:311][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.05-14.35.53:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.05-14.35.53:312][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.05-14.35.53:312][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.05-14.35.53:312][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.05-14.35.53:316][  0]LogHAL: Display: Platform has ~ 16 GB [17129906176 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.05-14.35.53:316][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.05-14.35.53:316][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.05-14.35.53:316][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.05-14.35.53:317][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.05-14.35.53:318][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.05-14.35.53:318][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.05-14.35.53:318][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Config/Windows/Engine.ini]
+[2020.04.05-14.35.53:328][  0]LogInit: Computer: DESKTOP-UD6UGMJ
+[2020.04.05-14.35.53:328][  0]LogInit: User: CtrlArt
+[2020.04.05-14.35.53:328][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.04.05-14.35.53:328][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.05-14.35.53:328][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.04.05-14.35.53:328][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.05-14.35.53:328][  0]LogMemory: Process Physical Memory: 106.40 MB used, 106.41 MB peak
+[2020.04.05-14.35.53:328][  0]LogMemory: Process Virtual Memory: 102.27 MB used, 102.27 MB peak
+[2020.04.05-14.35.53:328][  0]LogMemory: Physical Memory: 3635.73 MB used,  12700.62 MB free, 16336.35 MB total
+[2020.04.05-14.35.53:328][  0]LogMemory: Virtual Memory: 5179.37 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2020.04.05-14.35.53:614][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.05-14.35.53:792][  0]LogInit: Using OS detected language (pl-PL).
+[2020.04.05-14.35.53:792][  0]LogInit: Using OS detected locale (pl-PL).
+[2020.04.05-14.35.53:804][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2020.04.05-14.35.53:804][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2020.04.05-14.35.53:805][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2020.04.05-14.35.53:805][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2020.04.05-14.35.53:805][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2020.04.05-14.35.53:805][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2020.04.05-14.35.53:806][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2020.04.05-14.35.53:806][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2020.04.05-14.35.53:848][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.05-14.35.53:919][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.05-14.35.53:919][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.05-14.35.56:932][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.05-14.35.56:932][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.05-14.35.56:932][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.05-14.35.56:932][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.05-14.35.57:012][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.04.05-14.35.57:012][  0]LogD3D11RHI:       6052/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.05-14.35.57:014][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.05-14.35.57:015][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.05-14.35.57:015][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.05-14.35.57:026][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.05-14.35.57:026][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.05-14.35.57:026][  0]LogWindows: EnumDisplayDevices:
+[2020.04.05-14.35.57:026][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.04.05-14.35.57:027][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.04.05-14.35.57:027][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.04.05-14.35.57:027][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.04.05-14.35.57:027][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.05-14.35.57:027][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.04.05-14.35.57:027][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.04.05-14.35.57:027][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.04.05-14.35.57:027][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.04.05-14.35.57:080][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.05-14.35.57:080][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.05-14.35.57:215][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.05-14.35.57:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.05-14.35.57:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.05-14.35.57:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.05-14.35.57:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.05-14.35.57:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.05-14.35.57:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.05-14.35.57:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.05-14.35.57:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.05-14.35.57:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.05-14.35.57:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.05-14.35.57:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.05-14.35.57:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.05-14.35.57:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.05-14.35.57:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.05-14.35.57:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.05-14.35.57:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.05-14.35.57:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.05-14.35.57:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.05-14.35.57:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.05-14.35.57:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.05-14.35.57:789][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.05-14.35.57:805][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.05-14.35.57:864][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../Nowy folder (2)/Gra_o_szopie 4.24/Intermediate/Shaders/WorkingDirectory/19160/).
+[2020.04.05-14.35.57:864][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/CtrlArt/AppData/Local/Temp/UnrealShaderWorkingDir/09807230403C1779B40DFEBAE92F4D47/'.
+[2020.04.05-14.35.57:865][  0]LogXGEController: Cleaning working directory: C:/Users/CtrlArt/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.05-14.35.57:866][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.05-14.35.57:866][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.05-14.35.57:866][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.05-14.36.01:046][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.05-14.36.01:300][  0]LogDerivedDataCache: Loaded boot cache 0.25s 78MB C:/Users/CtrlArt/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.05-14.36.01:300][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/CtrlArt/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.05-14.36.01:301][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Nowy folder (2)/Gra_o_szopie 4.24/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.05-14.36.01:301][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.05-14.36.01:301][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Nowy folder (2)/Gra_o_szopie 4.24/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.05-14.36.01:301][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.05-14.36.01:315][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.05-14.36.01:315][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.05-14.36.01:315][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.05-14.36.01:317][  0]LogDerivedDataCache: Using Local data cache path C:/Users/CtrlArt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.05-14.36.01:317][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.05-14.36.01:317][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.05-14.36.01:346][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.05-14.36.01:354][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.05-14.36.01:354][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.05-14.36.01:459][  0]LogAssetRegistry: FAssetRegistry took 0.0061 seconds to start up
+[2020.04.05-14.36.01:941][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.05-14.36.02:224][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.05-14.36.02:224][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.05-14.36.02:224][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.05-14.36.02:224][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.05-14.36.02:224][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.05-14.36.02:248][  0]LogNetVersion: Gra_o_szopie 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2173554342)
+[2020.04.05-14.36.02:325][  0]LogInput: Warning: Action Jump uses deprecated key MotionController_Left_Trigger.
+[2020.04.05-14.36.02:325][  0]LogInput: Warning: Action ResetVR uses deprecated key MotionController_Left_Grip1.
+[2020.04.05-14.36.02:325][  0]LogInput: Warning: Action Jump uses deprecated key MotionController_Right_Trigger.
+[2020.04.05-14.36.02:325][  0]LogInput: Warning: Axis MoveForward uses deprecated key MotionController_Left_Thumbstick_Y.
+[2020.04.05-14.36.02:325][  0]LogInput: Warning: Axis MoveRight uses deprecated key MotionController_Left_Thumbstick_X.
+[2020.04.05-14.36.02:325][  0]LogInput: Warning: Axis TurnRate uses deprecated key MotionController_Right_Thumbstick_X.
+[2020.04.05-14.36.06:029][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.068476 seconds
+[2020.04.05-14.36.06:040][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.05-14.36.06:040][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.05-14.36.06:040][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.05-14.36.06:959][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.05-14.36.06:973][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.05-14.36.07:120][  0]SourceControl: Source control is disabled
+[2020.04.05-14.36.07:120][  0]SourceControl: Source control is disabled
+[2020.04.05-14.36.07:141][  0]SourceControl: Source control is disabled
+[2020.04.05-14.36.07:147][  0]SourceControl: Source control is disabled
+[2020.04.05-14.36.07:150][  0]SourceControl: Source control is disabled
+[2020.04.05-14.36.07:159][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.05-14.36.07:159][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.05-14.36.07:349][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.05-14.36.07:365][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.05-14.36.07:365][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.05-14.36.07:518][  0]LogOcInput: OculusInput pre-init called
+[2020.04.05-14.36.07:531][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.05-14.36.07:531][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.05-14.36.07:676][  0]LogEngine: Initializing Engine...
+[2020.04.05-14.36.07:678][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.05-14.36.07:682][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.04.05-14.36.08:124][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.05-14.36.08:139][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.05-14.36.08:142][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-14.36.08:142][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-14.36.08:142][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-14.36.08:142][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-14.36.08:142][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-14.36.08:142][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-14.36.08:142][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-14.36.08:142][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-14.36.08:142][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-14.36.08:142][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-14.36.08:177][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-14.36.08:177][  0]LogAudioMixer: Display: Name: Zestaw słuchawkowy (Razer Kraken 7.1 V2)
+[2020.04.05-14.36.08:177][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-14.36.08:177][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-14.36.08:177][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.05-14.36.08:177][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.05-14.36.08:177][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.05-14.36.08:177][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-14.36.08:177][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-14.36.08:217][  0]LogAudioMixer: Display: Using Audio Device Zestaw słuchawkowy (Razer Kraken 7.1 V2)
+[2020.04.05-14.36.08:220][  0]LogInit: FAudioDevice initialized.
+[2020.04.05-14.36.08:220][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.05-14.36.08:313][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/CtrlArt/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.05-14.36.08:318][  0]LogInit: Texture streaming: Enabled
+[2020.04.05-14.36.08:337][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.05-14.36.08:337][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={DE813204-4DB8-C204-B447-0A80C9AD7FD3}
+[2020.04.05-14.36.08:337][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={64AC8D20-4A94-1C9C-8288-8E8670BF247C}
+[2020.04.05-14.36.08:337][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.05-14.36.08:339][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.05-14.36.08:440][  0]LogInit: Transaction tracking system initialized
+[2020.04.05-14.36.08:477][  0]BlueprintLog: New page: Editor Load
+[2020.04.05-14.36.08:597][  0]LocalizationService: Localization service is disabled
+[2020.04.05-14.36.08:760][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.05-14.36.08:760][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.05-14.36.09:079][  0]LogFileCache: Scanning file cache for directory 'F:/Nowy folder (2)/Gra_o_szopie 4.24/Content/' took 0.01s
+[2020.04.05-14.36.09:079][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.05-14.36.09:079][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.05-14.36.10:047][  0]SourceControl: Source control is disabled
+[2020.04.05-14.36.10:048][  0]Cmd: MAP LOAD FILE="../../../../Nowy folder (2)/Gra_o_szopie 4.24/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.05-14.36.10:071][  0]LightingResults: New page: Lighting Build
+[2020.04.05-14.36.10:076][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-14.36.10:076][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-14.36.10:076][  0]MapCheck: New page: Map Check
+[2020.04.05-14.36.10:076][  0]LightingResults: New page: Lighting Build
+[2020.04.05-14.36.10:122][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.04.05-14.36.13:688][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.05-14.36.13:731][  0]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.05-14.36.13:739][  0]LogMaterial: Display: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2020.04.05-14.36.13:845][  0]MapCheck: Warning: M_Tech_Hex_Tile_Pulse Material /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse was missing the usage flag bUsedWithSkeletalMesh. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.04.05-14.36.13:878][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 48
+[2020.04.05-14.36.13:878][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2020.04.05-14.36.13:878][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 40
+[2020.04.05-14.36.13:878][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 36
+[2020.04.05-14.36.13:878][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 32
+[2020.04.05-14.36.13:878][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 28
+[2020.04.05-14.36.13:878][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 24
+[2020.04.05-14.36.13:878][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2020.04.05-14.36.13:878][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2020.04.05-14.36.13:878][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2020.04.05-14.36.13:878][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2020.04.05-14.36.13:878][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2020.04.05-14.36.13:878][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.05-14.36.13:981][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.04.05-14.36.13:982][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.05-14.36.13:982][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,239ms to complete.
+[2020.04.05-14.36.13:991][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.943
+[2020.04.05-14.36.14:392][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-14.36.14:423][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-14.36.14:458][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-14.36.14:495][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-14.36.14:526][  0]LogCollectionManager: Loaded 0 collections in 0.002468 seconds
+[2020.04.05-14.36.14:626][  0]LogFileCache: Scanning file cache for directory 'F:/Nowy folder (2)/Gra_o_szopie 4.24/Saved/Collections/' took 0.01s
+[2020.04.05-14.36.14:626][  0]LogFileCache: Scanning file cache for directory 'F:/Nowy folder (2)/Gra_o_szopie 4.24/Content/Developers/CtrlArt/Collections/' took 0.01s
+[2020.04.05-14.36.14:626][  0]LogFileCache: Scanning file cache for directory 'F:/Nowy folder (2)/Gra_o_szopie 4.24/Content/Collections/' took 0.00s
+[2020.04.05-14.36.14:626][  0]LogContentBrowser: Native class hierarchy populated in 0.0404 seconds. Added 3015 classes and 717 folders.
+[2020.04.05-14.36.14:650][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2020.04.05-14.36.16:472][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2020.04.05-14.36.16:506][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0015 seconds. Added 2 classes and 3 folders.
+[2020.04.05-14.36.16:661][  0]LogSlate: Took 0.000486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.05-14.36.16:666][  0]LogSlate: Took 0.000726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.05-14.36.16:680][  0]LogSlate: Took 0.003862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.05-14.36.16:971][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.04.05-14.36.18:255][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.05-14.36.18:255][  0]LogLoad: (Engine Initialization) Total time: 30.52 seconds
+[2020.04.05-14.36.18:255][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.05-14.36.18:604][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.05-14.36.18:694][  0]LogSlate: Took 0.010277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.05-14.36.20:349][  5]LogAssetRegistry: Asset discovery search completed in 18.8909 seconds
+[2020.04.05-14.36.20:353][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2020.04.05-14.36.47:948][ 90]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.05-14.36.48:159][ 90]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\CtrlArt\Desktop\szoppraczAssehOUSES aSSETS.fbx)
+[2020.04.05-14.36.48:203][ 90]LogFbx: Loading FBX Scene from C:\Users\CtrlArt\Desktop\szoppraczAssehOUSES aSSETS.fbx
+[2020.04.05-14.36.48:224][ 90]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.05-14.36.49:469][ 90]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.05-14.36.49:677][ 90]LogTexture: Display: Building textures: raccoon_color_palette (BGRA8, 625X976)
+[2020.04.05-14.36.49:886][ 90]LogMaterial: Display: Missing cached shader map for material Material_024, compiling. 
+[2020.04.05-14.36.49:909][ 90]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 15
+[2020.04.05-14.36.49:909][ 90]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2020.04.05-14.36.49:909][ 90]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2020.04.05-14.36.49:909][ 90]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2020.04.05-14.36.49:909][ 90]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2020.04.05-14.36.49:909][ 90]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2020.04.05-14.36.49:909][ 90]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.05-14.36.49:909][ 90]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.04.05-14.36.49:909][ 90]LogFbx: Display: Triangulating static mesh Cube.040
+[2020.04.05-14.36.49:994][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_040...
+[2020.04.05-14.36.50:010][ 90]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_040.szoppraczAssehOUSES_aSSETS_Cube_040
+[2020.04.05-14.36.50:050][ 90]LogTexture: Display: Building textures: raccoon_color_palette (BGRA8, 625X976)
+[2020.04.05-14.36.50:092][ 90]LogMaterial: Display: Missing cached shader map for material Material_025, compiling. 
+[2020.04.05-14.36.50:124][ 90]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 15
+[2020.04.05-14.36.50:124][ 90]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2020.04.05-14.36.50:124][ 90]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2020.04.05-14.36.50:124][ 90]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 9
+[2020.04.05-14.36.50:124][ 90]LogFbx: Display: Triangulating static mesh Cube.041
+[2020.04.05-14.36.50:273][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_041...
+[2020.04.05-14.36.50:293][ 90]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_041.szoppraczAssehOUSES_aSSETS_Cube_041
+[2020.04.05-14.36.50:368][ 90]LogTexture: Display: Building textures: raccoon_color_palette (BGRA8, 625X976)
+[2020.04.05-14.36.50:459][ 90]LogMaterial: Display: Missing cached shader map for material Material_047, compiling. 
+[2020.04.05-14.36.50:544][ 90]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 22
+[2020.04.05-14.36.50:544][ 90]LogFbx: Display: Triangulating static mesh Cube.042
+[2020.04.05-14.36.50:715][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_042...
+[2020.04.05-14.36.50:728][ 90]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_042.szoppraczAssehOUSES_aSSETS_Cube_042
+[2020.04.05-14.36.50:811][ 90]LogTexture: Display: Building textures: raccoon_color_palette (BGRA8, 625X976)
+[2020.04.05-14.36.50:861][ 90]LogMaterial: Display: Missing cached shader map for material Material_048, compiling. 
+[2020.04.05-14.36.50:922][ 90]LogFbx: Display: Triangulating static mesh Cube.043
+[2020.04.05-14.36.51:175][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_043...
+[2020.04.05-14.36.51:194][ 90]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 35
+[2020.04.05-14.36.51:194][ 90]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_043.szoppraczAssehOUSES_aSSETS_Cube_043
+[2020.04.05-14.36.51:196][ 90]LogStaticMesh: Warning: szoppraczAssehOUSES_aSSETS_Cube_043 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.05-14.36.51:235][ 90]LogFbx: Display: Triangulating static mesh Cube.046
+[2020.04.05-14.36.51:280][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_046...
+[2020.04.05-14.36.51:334][ 90]LogStaticMesh: Built static mesh [0.06s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_046.szoppraczAssehOUSES_aSSETS_Cube_046
+[2020.04.05-14.36.51:379][ 90]LogFbx: Display: Triangulating static mesh Cube.047
+[2020.04.05-14.36.51:414][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_047...
+[2020.04.05-14.36.51:436][ 90]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_047.szoppraczAssehOUSES_aSSETS_Cube_047
+[2020.04.05-14.36.51:466][ 90]LogFbx: Display: Triangulating static mesh Cube.048
+[2020.04.05-14.36.51:483][ 90]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 32
+[2020.04.05-14.36.51:484][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_048...
+[2020.04.05-14.36.51:500][ 90]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_048.szoppraczAssehOUSES_aSSETS_Cube_048
+[2020.04.05-14.36.51:535][ 90]LogFbx: Display: Triangulating static mesh Cube.049
+[2020.04.05-14.36.51:566][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_049...
+[2020.04.05-14.36.51:584][ 90]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_049.szoppraczAssehOUSES_aSSETS_Cube_049
+[2020.04.05-14.36.51:588][ 90]LogStaticMesh: Warning: szoppraczAssehOUSES_aSSETS_Cube_049 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.05-14.36.51:623][ 90]LogFbx: Display: Triangulating static mesh Cube.050
+[2020.04.05-14.36.51:693][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_050...
+[2020.04.05-14.36.51:714][ 90]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_050.szoppraczAssehOUSES_aSSETS_Cube_050
+[2020.04.05-14.36.51:745][ 90]LogFbx: Display: Triangulating static mesh Cube.051
+[2020.04.05-14.36.51:807][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_051...
+[2020.04.05-14.36.51:833][ 90]LogStaticMesh: Built static mesh [0.03s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_051.szoppraczAssehOUSES_aSSETS_Cube_051
+[2020.04.05-14.36.51:861][ 90]LogFbx: Display: Triangulating static mesh Cube.052
+[2020.04.05-14.36.51:880][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_052...
+[2020.04.05-14.36.51:902][ 90]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_052.szoppraczAssehOUSES_aSSETS_Cube_052
+[2020.04.05-14.36.51:974][ 90]LogFbx: Display: Triangulating static mesh Cube.053
+[2020.04.05-14.36.52:016][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_053...
+[2020.04.05-14.36.52:035][ 90]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_053.szoppraczAssehOUSES_aSSETS_Cube_053
+[2020.04.05-14.36.52:037][ 90]LogStaticMesh: Warning: szoppraczAssehOUSES_aSSETS_Cube_053 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.05-14.36.52:077][ 90]LogFbx: Display: Triangulating static mesh Cube.054
+[2020.04.05-14.36.52:118][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_054...
+[2020.04.05-14.36.52:140][ 90]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_054.szoppraczAssehOUSES_aSSETS_Cube_054
+[2020.04.05-14.36.52:179][ 90]LogFbx: Display: Triangulating static mesh Cube.055
+[2020.04.05-14.36.52:224][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_055...
+[2020.04.05-14.36.52:254][ 90]LogStaticMesh: Built static mesh [0.03s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_055.szoppraczAssehOUSES_aSSETS_Cube_055
+[2020.04.05-14.36.52:293][ 90]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 29
+[2020.04.05-14.36.52:304][ 90]LogFbx: Display: Triangulating static mesh Cube.056
+[2020.04.05-14.36.52:331][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_056...
+[2020.04.05-14.36.52:346][ 90]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_056.szoppraczAssehOUSES_aSSETS_Cube_056
+[2020.04.05-14.36.52:378][ 90]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 26
+[2020.04.05-14.36.52:390][ 90]LogFbx: Display: Triangulating static mesh Cube.057
+[2020.04.05-14.36.52:445][ 90]LogStaticMesh: Building static mesh szoppraczAssehOUSES_aSSETS_Cube_057...
+[2020.04.05-14.36.52:471][ 90]LogStaticMesh: Built static mesh [0.03s] /Game/ThirdPersonBP/Camera/Assety/szoppraczAssehOUSES_aSSETS_Cube_057.szoppraczAssehOUSES_aSSETS_Cube_057
+[2020.04.05-14.36.52:474][ 90]LogStaticMesh: Warning: szoppraczAssehOUSES_aSSETS_Cube_057 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.05-14.36.52:514][ 90]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2020.04.05-14.36.52:599][ 90]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.05-14.36.52:599][ 90]FBXImport: Warning: szoppraczAssehOUSES_aSSETS_Cube_043 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.05-14.36.52:599][ 90]FBXImport: Warning: szoppraczAssehOUSES_aSSETS_Cube_049 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.05-14.36.52:599][ 90]FBXImport: Warning: szoppraczAssehOUSES_aSSETS_Cube_053 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.05-14.36.52:599][ 90]FBXImport: Warning: szoppraczAssehOUSES_aSSETS_Cube_057 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.05-14.36.52:978][ 91]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2020.04.05-14.36.53:159][ 92]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 19
+[2020.04.05-14.36.53:223][ 92]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 17
+[2020.04.05-14.36.53:445][ 92]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 15
+[2020.04.05-14.36.53:473][ 92]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2020.04.05-14.36.53:501][ 92]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2020.04.05-14.36.53:541][ 92]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2020.04.05-14.36.53:541][ 92]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2020.04.05-14.36.54:696][ 93]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.05-14.36.54:696][ 93]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2020.04.05-14.36.54:751][ 93]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2020.04.05-14.36.54:923][ 93]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2020.04.05-14.36.54:984][ 93]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2020.04.05-14.36.55:018][ 93]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2020.04.05-14.36.55:415][ 94]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2020.04.05-14.36.55:518][ 94]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.04.05-14.37.01:982][109]LogSlate: Window 'Message Log' being destroyed
+[2020.04.05-14.37.02:342][109]LogSlate: Window 'Message Log' being destroyed
+[2020.04.05-14.37.13:121][345]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\CtrlArt\Desktop\szopColors.fbx)
+[2020.04.05-14.37.13:134][345]LogFbx: Loading FBX Scene from C:\Users\CtrlArt\Desktop\szopColors.fbx
+[2020.04.05-14.37.13:142][345]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.05-14.37.14:544][345]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.05-14.37.14:918][345]LogTexture: Display: Building textures: raccoon_color_palette (BGRA8, 625X976)
+[2020.04.05-14.37.15:139][345]LogMaterial: Display: Missing cached shader map for material Material_009, compiling. 
+[2020.04.05-14.37.15:161][345]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 15
+[2020.04.05-14.37.15:161][345]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2020.04.05-14.37.15:161][345]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2020.04.05-14.37.15:161][345]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2020.04.05-14.37.15:161][345]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2020.04.05-14.37.15:161][345]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2020.04.05-14.37.15:161][345]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.05-14.37.15:161][345]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.04.05-14.37.15:161][345]LogFbx: Display: Triangulating static mesh raccoon
+[2020.04.05-14.37.15:281][345]LogStaticMesh: Building static mesh szopColors...
+[2020.04.05-14.37.15:361][345]LogStaticMesh: Built static mesh [0.08s] /Game/ThirdPersonBP/Camera/Assety/szopColors.szopColors
+[2020.04.05-14.37.15:403][345]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.05-14.37.19:038][353]LogSlate: Window 'Message Log' being destroyed
+[2020.04.05-14.37.19:394][353]LogSlate: Window 'Message Log' being destroyed
+[2020.04.05-14.37.25:387][623]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.04.05-14.37.27:908][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.04.05-14.37.29:011][818]LogSavePackage: Moving '../../../../Nowy folder (2)/Gra_o_szopie 4.24/Saved/ThirdPersonExampleMap0289D73D476D77A121A435B428CE85E2.tmp' to '../../../../Nowy folder (2)/Gra_o_szopie 4.24/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.05-14.37.29:334][818]LogSavePackage: Moving '../../../../Nowy folder (2)/Gra_o_szopie 4.24/Saved/ThirdPersonExampleMap_BuiltDataB08AA6AF46DCD066631DAD9498CC74C3.tmp' to '../../../../Nowy folder (2)/Gra_o_szopie 4.24/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.05-14.37.29:361][818]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.05-14.37.29:361][818]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.05-14.37.29:361][818]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.04.05-14.37.39:582][226]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_040
+[2020.04.05-14.37.40:533][280]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_040
+[2020.04.05-14.37.42:585][305]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_041
+[2020.04.05-14.37.43:782][379]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_041
+[2020.04.05-14.37.44:542][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_040)
+[2020.04.05-14.37.51:348][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_041)
+[2020.04.05-14.37.52:280][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_040)
+[2020.04.05-14.37.54:400][117]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_042
+[2020.04.05-14.37.57:683][367]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_042
+[2020.04.05-14.38.01:210][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_040)
+[2020.04.05-14.38.03:859][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_042)
+[2020.04.05-14.38.17:597][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_040)
+[2020.04.05-14.38.19:381][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_042)
+[2020.04.05-14.38.22:312][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_41)
+[2020.04.05-14.38.23:023][427]Cmd: DELETE
+[2020.04.05-14.38.23:023][427]Cmd: ACTOR DELETE
+[2020.04.05-14.38.23:069][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-14.38.23:114][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.04.05-14.38.23:116][427]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2020.04.05-14.38.23:337][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_43)
+[2020.04.05-14.38.24:078][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_42)
+[2020.04.05-14.38.25:366][626]Cmd: DELETE
+[2020.04.05-14.38.25:366][626]Cmd: ACTOR DELETE
+[2020.04.05-14.38.25:406][626]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-14.38.25:448][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.05-14.38.25:449][626]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2020.04.05-14.38.27:986][641]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_043
+[2020.04.05-14.38.28:985][723]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_043
+[2020.04.05-14.38.35:248][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_43)
+[2020.04.05-14.38.42:894][960]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.38.44:141][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_43)
+[2020.04.05-14.38.45:783][214]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.38.48:223][338]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_046
+[2020.04.05-14.38.49:066][386]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_046
+[2020.04.05-14.38.52:959][646]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_047
+[2020.04.05-14.38.54:221][734]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_047
+[2020.04.05-14.38.58:784][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_046)
+[2020.04.05-14.39.10:405][997]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_048
+[2020.04.05-14.39.13:525][246]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_048
+[2020.04.05-14.39.25:752][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_046)
+[2020.04.05-14.39.27:783][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_048)
+[2020.04.05-14.39.29:647][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_046)
+[2020.04.05-14.39.31:894][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_048)
+[2020.04.05-14.39.45:233][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_047)
+[2020.04.05-14.39.46:191][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_046)
+[2020.04.05-14.39.52:026][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_048)
+[2020.04.05-14.39.52:334][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_048)
+[2020.04.05-14.40.01:692][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_046)
+[2020.04.05-14.40.05:470][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_47)
+[2020.04.05-14.40.06:138][720]Cmd: DELETE
+[2020.04.05-14.40.06:138][720]Cmd: ACTOR DELETE
+[2020.04.05-14.40.06:178][720]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-14.40.06:219][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.04.05-14.40.06:221][720]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2020.04.05-14.40.06:353][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_49)
+[2020.04.05-14.40.13:444][145]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_053
+[2020.04.05-14.40.14:396][204]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_053
+[2020.04.05-14.40.18:847][480]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_052
+[2020.04.05-14.40.20:793][623]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_052
+[2020.04.05-14.40.34:715][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_052)
+[2020.04.05-14.40.36:752][980]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.40.41:278][127]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_055
+[2020.04.05-14.40.42:149][181]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_055
+[2020.04.05-14.40.46:306][431]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_057
+[2020.04.05-14.40.47:716][533]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_057
+[2020.04.05-14.40.48:872][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_057)
+[2020.04.05-14.40.58:946][541]Cmd: DELETE
+[2020.04.05-14.40.58:946][541]Cmd: ACTOR DELETE
+[2020.04.05-14.40.58:988][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-14.40.59:034][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.04.05-14.40.59:037][541]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2020.04.05-14.41.00:026][544]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_057
+[2020.04.05-14.41.00:804][596]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_057
+[2020.04.05-14.41.19:343][208]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.41.20:813][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_057)
+[2020.04.05-14.41.24:438][623]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.41.29:061][878]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_054
+[2020.04.05-14.41.31:506][ 66]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_054
+[2020.04.05-14.41.46:123][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_054)
+[2020.04.05-14.41.51:971][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_55)
+[2020.04.05-14.41.55:106][ 84]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.41.56:613][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_55)
+[2020.04.05-14.41.57:395][264]Cmd: DELETE
+[2020.04.05-14.41.57:395][264]Cmd: ACTOR DELETE
+[2020.04.05-14.41.57:436][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-14.41.57:478][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.04.05-14.41.57:480][264]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2020.04.05-14.42.12:310][363]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_042
+[2020.04.05-14.42.14:196][531]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_042
+[2020.04.05-14.42.27:119][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_44)
+[2020.04.05-14.42.27:797][704]Cmd: DELETE
+[2020.04.05-14.42.27:797][704]Cmd: ACTOR DELETE
+[2020.04.05-14.42.27:838][704]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-14.42.27:881][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.04.05-14.42.27:883][704]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2020.04.05-14.42.28:207][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_45)
+[2020.04.05-14.42.28:272][743]Cmd: DELETE
+[2020.04.05-14.42.28:272][743]Cmd: ACTOR DELETE
+[2020.04.05-14.42.28:311][743]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-14.42.28:354][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.05-14.42.28:355][743]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2020.04.05-14.42.31:628][799]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_056
+[2020.04.05-14.42.33:598][980]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_056
+[2020.04.05-14.42.54:862][872]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.42.57:815][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_054)
+[2020.04.05-14.43.09:072][ 72]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.05-14.43.10:864][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_55)
+[2020.04.05-14.43.18:730][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_55)
+[2020.04.05-14.43.20:974][930]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.43.30:821][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_57)
+[2020.04.05-14.43.33:196][948]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.43.42:768][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_052)
+[2020.04.05-14.44.02:128][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_49)
+[2020.04.05-14.44.29:151][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_048)
+[2020.04.05-14.44.35:476][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_043)
+[2020.04.05-14.44.44:362][971]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.05-14.44.45:465][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_45)
+[2020.04.05-14.44.54:189][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_44)
+[2020.04.05-14.45.01:002][416]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.45.03:358][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_48)
+[2020.04.05-14.45.08:233][ 21]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.45.09:813][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_047)
+[2020.04.05-14.45.10:934][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_048)
+[2020.04.05-14.45.16:961][693]Cmd: TRANSACTION UNDO
+[2020.04.05-14.45.16:961][693]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.05-14.45.20:616][707]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.45.21:562][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_047)
+[2020.04.05-14.45.33:401][787]Cmd: TRANSACTION UNDO
+[2020.04.05-14.45.33:401][787]LogEditorTransaction: Undo Move Actors
+[2020.04.05-14.45.38:296][891]Cmd: TRANSACTION UNDO
+[2020.04.05-14.45.38:296][891]LogEditorTransaction: Undo Move Actors
+[2020.04.05-14.45.40:521][902]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.05-14.45.42:000][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_048)
+[2020.04.05-14.45.49:584][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_47)
+[2020.04.05-14.45.52:384][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_43)
+[2020.04.05-14.46.08:887][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_43)
+[2020.04.05-14.46.15:726][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_041)
+[2020.04.05-14.46.30:024][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_043)
+[2020.04.05-14.46.49:058][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_52)
+[2020.04.05-14.46.56:648][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_47)
+[2020.04.05-14.47.13:640][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_47)
+[2020.04.05-14.47.18:302][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_54)
+[2020.04.05-14.47.42:345][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_59)
+[2020.04.05-14.48.00:944][822]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.48.01:916][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_61)
+[2020.04.05-14.48.05:708][241]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.48.10:860][679]LogTexture: Error: Texture2D /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Landscape_1.Texture2D_0 is unknown [raw type 0] which is not supported.
+[2020.04.05-14.48.10:864][679]LogTexture: Error: Texture2D /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Landscape_1.Texture2D_0 is unknown [raw type 0] which is not supported.
+[2020.04.05-14.48.10:865][679]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2020.04.05-14.48.10:867][679]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2020.04.05-14.48.10:869][679]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2020.04.05-14.48.10:871][679]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2020.04.05-14.48.10:873][679]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2020.04.05-14.48.10:875][679]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2020.04.05-14.48.21:457][797]Cmd: TRANSACTION UNDO
+[2020.04.05-14.48.21:457][797]LogEditorTransaction: Undo Rotate Actors
+[2020.04.05-14.48.23:774][802]Cmd: TRANSACTION UNDO
+[2020.04.05-14.48.23:774][802]LogEditorTransaction: Undo Move Actors
+[2020.04.05-14.48.24:336][802]LogTexture: Error: Texture2D /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Landscape_1.Texture2D_0 is unknown [raw type 0] which is not supported.
+[2020.04.05-14.48.25:111][804]Cmd: TRANSACTION UNDO
+[2020.04.05-14.48.25:111][804]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.05-14.48.26:087][805]Cmd: TRANSACTION UNDO
+[2020.04.05-14.48.26:087][805]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.05-14.48.27:390][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_054)
+[2020.04.05-14.48.37:945][410]Cmd: TRANSACTION UNDO
+[2020.04.05-14.48.37:945][410]LogEditorTransaction: Undo Scale Actors
+[2020.04.05-14.48.54:174][546]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.48.58:411][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.04.05-14.48.59:447][908]LogSavePackage: Moving '../../../../Nowy folder (2)/Gra_o_szopie 4.24/Saved/ThirdPersonExampleMap37A918BC451D3E7CE2E593A0A44B4974.tmp' to '../../../../Nowy folder (2)/Gra_o_szopie 4.24/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.05-14.48.59:654][908]LogSavePackage: Moving '../../../../Nowy folder (2)/Gra_o_szopie 4.24/Saved/ThirdPersonExampleMap_BuiltDataA7DC158942F1C3C53B572DB02879C61C.tmp' to '../../../../Nowy folder (2)/Gra_o_szopie 4.24/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.05-14.48.59:691][908]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.05-14.48.59:691][908]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.05-14.48.59:691][908]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.04.05-14.49.15:099][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_040)
+[2020.04.05-14.49.18:056][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_51)
+[2020.04.05-14.49.24:943][886]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.05-14.49.26:746][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_66)
+[2020.04.05-14.49.27:621][941]Cmd: TRANSACTION UNDO
+[2020.04.05-14.49.27:621][941]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.05-14.49.28:313][947]Cmd: TRANSACTION UNDO
+[2020.04.05-14.49.28:313][947]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.05-14.49.31:187][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_64)
+[2020.04.05-14.49.31:213][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_64)
+[2020.04.05-14.49.32:779][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_65)
+[2020.04.05-14.49.42:613][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_66)
+[2020.04.05-14.49.49:858][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_67)
+[2020.04.05-14.49.50:358][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_67)
+[2020.04.05-14.50.03:155][483]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.50.06:259][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_040)
+[2020.04.05-14.50.28:567][722]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.05-14.50.29:374][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_41)
+[2020.04.05-14.50.40:883][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_50)
+[2020.04.05-14.50.44:667][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_54)
+[2020.04.05-14.50.45:752][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_053)
+[2020.04.05-14.50.56:412][ 52]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.04.05-14.50.57:806][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_71)
+[2020.04.05-14.50.58:186][ 67]Cmd: TRANSACTION UNDO
+[2020.04.05-14.50.58:186][ 67]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.05-14.50.59:175][ 74]Cmd: TRANSACTION UNDO
+[2020.04.05-14.50.59:175][ 74]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.05-14.51.00:903][ 79]Cmd: TRANSACTION UNDO
+[2020.04.05-14.51.00:903][ 79]LogEditorTransaction: Undo Move Actors
+[2020.04.05-14.51.12:624][740]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_71)
+[2020.04.05-14.51.12:983][768]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_71)
+[2020.04.05-14.51.16:842][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_71)
+[2020.04.05-14.51.18:405][893]Cmd: TRANSACTION UNDO
+[2020.04.05-14.51.18:405][893]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.05-14.51.32:419][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_69)
+[2020.04.05-14.51.36:383][ 22]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.51.38:390][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_69)
+[2020.04.05-14.51.40:805][365]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.51.48:001][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_72)
+[2020.04.05-14.51.54:098][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_76)
+[2020.04.05-14.51.59:844][804]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_050
+[2020.04.05-14.52.01:698][937]LogActorFactory: Actor Factory created szoppraczAssehOUSES_aSSETS_Cube_050
+[2020.04.05-14.52.13:488][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_76)
+[2020.04.05-14.52.16:967][235]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_77)
+[2020.04.05-14.52.17:738][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_77)
+[2020.04.05-14.52.40:633][149]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.05-14.52.46:881][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_72)
+[2020.04.05-14.52.50:320][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_66)
+[2020.04.05-14.52.54:046][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_055)
+[2020.04.05-14.53.22:520][703]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.05-14.53.24:291][707]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.05-14.53.24:882][738]Cmd: TRANSACTION UNDO
+[2020.04.05-14.53.24:882][738]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.05-14.53.45:130][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_84)
+[2020.04.05-14.53.46:322][213]Cmd: DELETE
+[2020.04.05-14.53.46:322][213]Cmd: ACTOR DELETE
+[2020.04.05-14.53.46:494][213]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-14.53.46:627][213]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2020.04.05-14.53.46:636][213]LogEditorActor: Deleted 1 Actors (0.276 secs)
+[2020.04.05-14.53.47:450][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_83)
+[2020.04.05-14.53.49:347][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_81)
+[2020.04.05-14.53.54:232][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_85)
+[2020.04.05-14.53.54:833][913]Cmd: DELETE
+[2020.04.05-14.53.54:833][913]Cmd: ACTOR DELETE
+[2020.04.05-14.53.54:874][913]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-14.53.54:915][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.04.05-14.53.54:917][913]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2020.04.05-14.53.55:147][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_86)
+[2020.04.05-14.54.01:321][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_82)
+[2020.04.05-14.54.26:903][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssetPack_Plane_209)
+[2020.04.05-14.54.49:492][421]Cmd: TRANSACTION UNDO
+[2020.04.05-14.54.49:493][421]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.05-14.56.18:252][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_48)
+[2020.04.05-14.56.27:023][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssetPack_Plane_473)
+[2020.04.05-14.56.59:495][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssetPack_Plane_596)
+[2020.04.05-14.57.01:135][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssetPack_Plane_595)
+[2020.04.05-14.57.04:509][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssetPack_Plane_591)
+[2020.04.05-14.57.24:568][410]LogActorFactory: Actor Factory created szoppraczAssetPack_Plane_034
+[2020.04.05-14.57.25:588][468]LogActorFactory: Actor Factory created szoppraczAssetPack_Plane_034
+[2020.04.05-14.57.39:561][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_42)
+[2020.04.05-14.57.41:799][913]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.57.44:055][ 89]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.57.48:962][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_66)
+[2020.04.05-14.57.59:670][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_42)
+[2020.04.05-14.58.00:479][521]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.58.02:901][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssetPack_Plane_601)
+[2020.04.05-14.58.03:444][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssetPack_Plane_597)
+[2020.04.05-14.58.21:178][246]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-14.58.27:948][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_56)
+[2020.04.05-14.58.53:187][ 54]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.05-14.59.06:204][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssehOUSES_aSSETS_Cube_86)
+[2020.04.05-14.59.46:903][ 49]Cmd: POLY SELECT MEMORY UNION
+[2020.04.05-15.00.09:322][582]Cmd: TRANSACTION UNDO
+[2020.04.05-15.00.09:322][582]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.05-15.00.16:779][873]Cmd: POLY SELECT MEMORY UNION
+[2020.04.05-15.00.48:110][109]Cmd: TRANSACTION UNDO
+[2020.04.05-15.00.48:110][109]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.05-15.01.27:418][436]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.04.05-15.01.29:503][442]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-15.01.29:842][455]Cmd: TRANSACTION UNDO
+[2020.04.05-15.01.29:842][455]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.05-15.02.11:520][743]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (szoppraczAssetPack_Plane_600)
+[2020.04.05-15.02.13:244][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssetPack_Plane_601)
+[2020.04.05-15.02.13:868][776]Cmd: TRANSACTION UNDO
+[2020.04.05-15.02.13:868][776]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.05-15.02.14:504][781]Cmd: TRANSACTION UNDO
+[2020.04.05-15.02.14:505][781]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.05-15.02.46:185][397]Cmd: TRANSACTION UNDO
+[2020.04.05-15.02.46:185][397]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.05-15.03.09:632][539]Cmd: TRANSACTION UNDO
+[2020.04.05-15.03.09:632][539]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.05-15.03.38:626][653]LogEditorViewport: Clicking on Actor (context menu): TriggerVolume (Camera_Area_11)
+[2020.04.05-15.03.41:486][658]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.04.05-15.03.41:543][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szoppraczAssetPack_Plane_243)
+[2020.04.05-15.03.42:376][661]Cmd: TRANSACTION UNDO
+[2020.04.05-15.03.42:376][661]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.05-15.03.43:563][663]Cmd: TRANSACTION UNDO
+[2020.04.05-15.03.43:563][663]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.05-15.03.44:896][667]Cmd: TRANSACTION UNDO
+[2020.04.05-15.03.44:896][667]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.05-15.05.15:017][846]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-15.05.22:147][350]LogUObjectHash: Compacting FUObjectHashTables data took  10.00ms
+[2020.04.05-15.05.24:387][350]LogSavePackage: Moving '../../../../Nowy folder (2)/Gra_o_szopie 4.24/Saved/ThirdPersonExampleMap5D23643542661690C937FFA333DC0BE9.tmp' to '../../../../Nowy folder (2)/Gra_o_szopie 4.24/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.05-15.05.24:868][350]LogSavePackage: Moving '../../../../Nowy folder (2)/Gra_o_szopie 4.24/Saved/ThirdPersonExampleMap_BuiltData93E53BB846D8D0CE3ED33DB2EF248D29.tmp' to '../../../../Nowy folder (2)/Gra_o_szopie 4.24/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.05-15.05.24:930][350]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.05-15.05.24:930][350]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.05-15.05.24:930][350]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.04.05-15.05.42:705][723]Cmd: DELETE
+[2020.04.05-15.05.42:705][723]Cmd: ACTOR DELETE
+[2020.04.05-15.05.42:837][723]LogEditorActor: Deleted Actor: Brush
+[2020.04.05-15.05.42:899][723]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.04.05-15.05.43:151][723]LogEditorActor: Deleted 1 Actors (0.408 secs)
+[2020.04.05-15.05.45:360][737]Cmd: DELETE
+[2020.04.05-15.05.45:360][737]Cmd: ACTOR DELETE
+[2020.04.05-15.05.45:422][737]LogEditorActor: Deleted Actor: Brush
+[2020.04.05-15.05.45:471][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.04.05-15.05.45:913][737]LogEditorActor: Deleted 1 Actors (0.553 secs)
+[2020.04.05-15.05.48:881][744]Cmd: DELETE
+[2020.04.05-15.05.48:881][744]Cmd: ACTOR DELETE
+[2020.04.05-15.05.48:946][744]LogEditorActor: Deleted Actor: Brush
+[2020.04.05-15.05.48:993][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.04.05-15.05.49:397][744]LogEditorActor: Deleted 1 Actors (0.516 secs)
+[2020.04.05-15.06.23:480][520]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.05-15.06.25:643][544]Cmd: DELETE
+[2020.04.05-15.06.25:643][544]Cmd: ACTOR DELETE
+[2020.04.05-15.06.25:859][544]LogEditorActor: Deleted Actor: Brush
+[2020.04.05-15.06.26:013][544]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.04.05-15.06.26:224][544]LogEditorActor: Deleted 1 Actors (0.546 secs)
+[2020.04.05-15.06.27:286][555]Cmd: DELETE
+[2020.04.05-15.06.27:286][555]Cmd: ACTOR DELETE
+[2020.04.05-15.06.27:344][555]LogEditorActor: Deleted Actor: Brush
+[2020.04.05-15.06.27:389][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.04.05-15.06.27:498][555]LogEditorActor: Deleted 1 Actors (0.212 secs)
+[2020.04.05-15.06.30:410][562]Cmd: DELETE
+[2020.04.05-15.06.30:410][562]Cmd: ACTOR DELETE
+[2020.04.05-15.06.30:473][562]LogEditorActor: Deleted Actor: Brush
+[2020.04.05-15.06.30:519][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.04.05-15.06.30:998][562]LogEditorActor: Deleted 1 Actors (0.588 secs)
+[2020.04.05-15.07.24:041][920]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.05-15.07.25:031][923]Cmd: TRANSACTION UNDO
+[2020.04.05-15.07.25:032][923]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.05-15.07.46:262][482]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (szoppraczAssetPack_Plane_443)
+[2020.04.05-15.07.50:872][641]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (szoppraczAssetPack_Plane_433)
